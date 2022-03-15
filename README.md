@@ -28,7 +28,7 @@ Created the paths which specifies how the path shows up in the users web browser
 
 ![urls](https://user-images.githubusercontent.com/94077710/158488327-f0b4be5f-34b1-4f9c-843a-20e1175ab6f4.png)
 
-Formatted all teammates files with the proper ```{% static %}``` formatting. As all files other than HTML are stored in the static folder.
+Formatted all teammates files with the proper ```{% static %}``` formatting. As all files other than HTML are stored in the static folder, and django will know to look within the static folder for the specified file. 
 
 ![static](https://user-images.githubusercontent.com/94077710/158488701-b7676f4d-182f-4c37-a6f4-f01c1093c37d.png)
 ![files](https://user-images.githubusercontent.com/94077710/158488739-7474a090-7243-486b-b8b4-678d07295b3a.png)
