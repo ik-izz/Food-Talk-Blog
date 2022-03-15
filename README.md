@@ -18,12 +18,21 @@ Myself, my teammates Thin and Shiming worked on the front end for the breakfast 
 
 ![food_talk_breakfast](https://user-images.githubusercontent.com/94077710/158486684-60c2829c-6e30-4661-a754-24b73c06684e.gif)
 
-I worked on the backend as well. I linked all my teammates files by creating the proper paths, fixing formatting issues and of course debugging.
+I worked on the backend as well. Linked all my teammates files by creating the proper paths, fixing formatting issues and of course debugging.
 
-I created the functions to render the proper files when requested:
+Created the functions to render the proper files when requested:
 
 ![views-py](https://user-images.githubusercontent.com/94077710/158488157-3f52f02c-def6-4613-9263-fd4957338b6d.png)
 
-I created the paths which specifies how the path shows up in the users web browser and made sure it calls the proper function to render the correct page.
+Created the paths which specifies how the path shows up in the users web browser and made sure it calls the proper function to render the correct page:
 
 ![urls](https://user-images.githubusercontent.com/94077710/158488327-f0b4be5f-34b1-4f9c-843a-20e1175ab6f4.png)
+
+Formatted all teammates files with the proper ```{% static %}``` formatting. As all files other than HTML are stored in the static folder.
+
+![static](https://user-images.githubusercontent.com/94077710/158488701-b7676f4d-182f-4c37-a6f4-f01c1093c37d.png)
+![files](https://user-images.githubusercontent.com/94077710/158488739-7474a090-7243-486b-b8b4-678d07295b3a.png)
+
+
+
+
