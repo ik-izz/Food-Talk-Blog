@@ -4,7 +4,7 @@
 
 Worked in a team of 16 to build a food blog using Django and Python as the backend and HTML, CSS, JS as the frontend.
 
-![food_talk_landing_page](https://user-images.githubusercontent.com/94077710/158485855-f5e95a31-558c-4a37-b3f0-95c86d007361.png)
+![food_talk_landing_page](https://user-images.githubusercontent.com/94077710/158486189-e1549c2c-c10e-4cc3-ba05-04e997f81e14.png)
 
 The website has a simple yet modern design. The viewer is greeted with an animated greeting to enhance the browsing experience and give a quick overview of what the site has to offer.
 
